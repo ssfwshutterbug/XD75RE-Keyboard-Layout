@@ -14,10 +14,11 @@ I brought a xd75re keyboard which can remap all keys in keyboard hardware, and h
 1. plugin Keyboard
 2. open zadig and install driver
 3. turn keyboard into development mode
-4. open [keyboard layout design][1] website and design your keyboard layout
-5. open [TMK keymap generator][2] and burn keyboard
-6. unplug Keyboard
-7. open [keyboard test online][3] website and test all keys
+4. open chrome browser and install extension
+5. open [keyboard layout design][1] website and design your keyboard layout
+6. open [TMK keymap generator][2] and burn keyboard
+7. unplug Keyboard
+8. open [keyboard test online][3] website and test all keys
 
 
 [1]: http://www.keyboard-layout-editor.com/#/
