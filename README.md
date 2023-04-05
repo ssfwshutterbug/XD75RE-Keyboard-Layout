@@ -2,6 +2,8 @@
 
 I brought a xd75re keyboard which can remap all keys in keyboard hardware, and here is what we need to do.
 
+![image](https://raw.githubusercontent.com/ssfwshutterbug/XD75RE-Keyboard-Layout/main/screenshot/20230405_193039.jpg)
+
 ## Require
 
 - windows system
