@@ -1,0 +1,5 @@
+["Esc",{c:"#ddaeae"},"!\n1\n\n\nF1","@\n2\n\n\nF2","#\n3\n\n\nF3","$\n4\n\n\nF4","%\n5\n\n\nF5",{c:"#8a8787"},"Del\n\n\n\nF11","Home","Print\n\n\n\nF12",{c:"#ddaeae"},"^\n6\n\n\nF6","&\n7\n\n\nF7","*\n8\n\n\nF8","(\n9\n\n\nF9",")\n0\n\n\nF10",{c:"#cccccc"},"~\n`"],
+["Tab",{c:"#dd8777"},"\"\n'","<\n,",">\n.",{c:"#cebfaa"},"P","Y",{c:"#8a8787"},"Ins","End","|\n\\",{c:"#cebfaa"},"F","G","C","R","L",{c:"#cccccc"},"Bs"],
+["Win",{c:"#cebfaa"},"A","O","E","U","I",{c:"#8a8787"},"{\n[",{c:"#5ae2d0"},"Fn2",{c:"#8a8787"},"}\n]",{c:"#cebfaa"},"D","H","T","N","S",{c:"#cccccc"},"Enter"],
+["Shift",{c:"#dd8777"},":\n;",{c:"#cebfaa"},"Q","J","K","X",{c:"#8a8787"},"_\n-","PgUp","+\n=",{c:"#cebfaa"},"B","M","W","V","Z",{c:"#cccccc"},"RShift"],
+["Ctrl","Caps Lock","Alt",{c:"#5ae2d0"},"Fn0",{c:"#b3b7d6"},"Space","Space",{c:"#8a8787"},"←","PgDn","→",{c:"#b3b7d6"},"Space","Space",{c:"#5ae2d0"},"Fn1",{c:"#cccccc"},"RAlt","?\n/","RCtrl"]
